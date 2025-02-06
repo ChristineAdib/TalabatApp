@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TalabatAPIs": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52142;http://localhost:52143"
+    }
+  }
+}
